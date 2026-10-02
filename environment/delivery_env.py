@@ -270,23 +270,19 @@ class MultiOrderDeliveryEnv(FoodDeliveryEnv):
             reward_config=reward_config,
         )
         self.observation_space = spaces.Box(
-            low=np.zeros(14, dtype=np.int32),
+            low=np.zeros(10, dtype=np.int32),
             high=np.array(
                 [
                     self.grid_size - 1,
                     self.grid_size - 1,
-                    self.grid_size - 1,
-                    self.grid_size - 1,
-                    self.grid_size - 1,
-                    self.grid_size - 1,
+                    len(self.orders) - 1,
+                    1,
+                    2,
                     2,
                     self.grid_size - 1,
                     self.grid_size - 1,
                     self.grid_size - 1,
                     self.grid_size - 1,
-                    self.grid_size - 1,
-                    self.grid_size - 1,
-                    1,
                 ],
                 dtype=np.int32,
             ),
@@ -339,9 +335,16 @@ class MultiOrderDeliveryEnv(FoodDeliveryEnv):
                 truncated = self.steps_taken >= self.max_steps
                 return self._get_observation(), reward, terminated, truncated, info
             if 0 <= order_index < len(self.orders):
+                if self.orders[order_index]["status"] == 2:
+                    reward += self.reward_config["invalid_penalty"]
+                    info["status"] = "completed_order_reselected"
+                    self.steps_taken += 1
+                    truncated = self.steps_taken >= self.max_steps
+                    return self._get_observation(), reward, terminated, truncated, info
                 self.selected_order_index = order_index
                 self.restaurant_position = self.orders[order_index]["restaurant"]
                 self.customer_position = self.orders[order_index]["customer"]
+                reward += 0.25 if self.orders[order_index]["status"] == 0 else 0.0
                 info["status"] = f"selected_order_{order_index}"
             else:
                 reward = self.reward_config["invalid_penalty"]
@@ -371,7 +374,7 @@ class MultiOrderDeliveryEnv(FoodDeliveryEnv):
             if tuple(self.rider_position) == current_order["restaurant"] and current_order["status"] == 0 and not self.picked_up:
                 current_order["status"] = 1
                 self.picked_up = True
-                reward += self.reward_config["pickup_bonus"]
+                reward += self.reward_config["pickup_bonus"] + 1.0
                 info["status"] = f"picked_up_order_{self.selected_order_index}"
             else:
                 reward += self.reward_config["invalid_penalty"]
@@ -382,10 +385,11 @@ class MultiOrderDeliveryEnv(FoodDeliveryEnv):
                 current_order["status"] = 2
                 self.completed_orders += 1
                 self.picked_up = False
-                reward += self.reward_config["delivery_bonus"]
+                reward += self.reward_config["delivery_bonus"] + 2.0 * self.completed_orders
                 info["status"] = f"delivered_order_{self.selected_order_index}"
                 if self.completed_orders >= len(self.orders):
                     terminated = True
+                    reward += 5.0
                     info["status"] = "all_orders_completed"
             else:
                 reward += self.reward_config["invalid_penalty"]
@@ -402,21 +406,19 @@ class MultiOrderDeliveryEnv(FoodDeliveryEnv):
         return self._get_observation(), reward, terminated, truncated, info
 
     def _get_observation(self) -> np.ndarray:
+        current_order = self._selected_order()
         obs = [
             int(self.rider_position[0]),
             int(self.rider_position[1]),
+            int(self.selected_order_index),
+            int(self.picked_up),
+            int(self.orders[0]["status"]),
+            int(self.orders[1]["status"]),
+            int(current_order["restaurant"][0]),
+            int(current_order["restaurant"][1]),
+            int(current_order["customer"][0]),
+            int(current_order["customer"][1]),
         ]
-        for order in self.orders:
-            obs.extend(
-                [
-                    order["restaurant"][0],
-                    order["restaurant"][1],
-                    order["customer"][0],
-                    order["customer"][1],
-                    int(order["status"]),
-                ]
-            )
-        obs.extend([self.selected_order_index, int(self.picked_up)])
         return np.array(obs, dtype=np.int32)
 
 

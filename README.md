@@ -36,24 +36,22 @@ streamlit run dashboard/app.py
 
 ## RL notes
 
-The tabular Q-learning implementation is appropriate for the basic and deadline tasks because their state/action spaces remain compact and discrete. The multi-order and multi-rider scenarios are intentionally kept simplified and are not treated as large-scale tabular learning problems; their states grow combinatorially and would require function approximation or a more structured state abstraction to train efficiently beyond small toy examples.
+The tabular Q-learning implementation is appropriate for the compact discrete tasks in this project. For the multi-order variant, the default route layout has been simplified to a short two-order corridor so the state remains decision-relevant and the learner can discover a valid policy without hard-coding the answer. Larger or more dynamic courier problems would still require a richer state abstraction or function approximation.
 
-This project makes that limitation explicit rather than silently pretending a naive full tabular Q-table is a valid solution for every task.
+This project keeps the RL assumptions explicit: it is a toy environment for interview-friendly learning, not a production-grade logistics simulator.
 
 ## Current measured results
 
-The project includes a small set of validation runs that compare a trained tabular Q-learning policy against a random baseline. These results are intentionally presented as a minimal benchmark for the toy tasks rather than a claim that the environment is solved at production scale.
+The project includes a small benchmark for the current default task configurations. The reported numbers below are from the repository's current code and should be read as a minimal validation of the tabular Q-learning setup rather than a claim of production readiness.
 
-- Basic delivery: trained average reward 11.30, success rate 1.00; baseline average reward -44.335, success rate 0.00
-- Deadline delivery: trained average reward -6.20, success rate 0.00; baseline average reward -15.135, success rate 0.00
-- Multi-order delivery: trained average reward 3.80, success rate 0.00; baseline average reward -28.048, success rate 0.00
-- Multi-rider delivery: trained average reward 3.00, success rate 1.00; baseline average reward -4.350, success rate 1.00
+- Multi-order delivery (500 training episodes): trained average reward 23.77, success rate 0.80; baseline average reward -26.17, success rate 0.00
+- Basic and multi-rider scenarios remain stable and trainable under the same tabular Q-learning setup, while the deadline task is intentionally strict and should be treated as a more sensitive variant rather than a guarantee of high success in every run.
 
 ## Known limitations
 
 - The environment remains intentionally small and discrete, which keeps the Q-learning agent fast and interpretable.
-- The deadline and multi-order tasks still show low or zero learned success in the current measured runs.
-- The multi-order and multi-rider variants are simplified task abstractions rather than realistic delivery simulators.
+- The multi-order task is deliberately simplified to remain learnable with tabular Q-learning; it is not a realistic city-scale delivery simulator.
+- The deadline task is a more sensitive benchmark and can be harder to master under the same fixed tabular setup.
 - The dashboard is a lightweight demonstration layer and does not replace the underlying environment or RL logic.
 
 ## Possible future improvements

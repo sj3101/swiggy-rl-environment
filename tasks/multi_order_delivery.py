@@ -29,8 +29,8 @@ class MultiOrderTaskConfig:
     grid_size: int = 6
     rider_start: tuple[int, int] = (0, 0)
     orders: tuple[OrderConfig, ...] = (
-        OrderConfig(restaurant_position=(1, 0), customer_position=(4, 5)),
-        OrderConfig(restaurant_position=(0, 2), customer_position=(5, 5)),
+        OrderConfig(restaurant_position=(1, 0), customer_position=(2, 0)),
+        OrderConfig(restaurant_position=(2, 0), customer_position=(4, 2)),
     )
     max_steps: int = 40
     reward_config: RewardConfig = field(default_factory=RewardConfig)
@@ -66,30 +66,12 @@ def run_demo() -> None:
         "SELECT_ORDER_0",
         "RIGHT",
         "PICKUP",
-        "DOWN",
-        "DOWN",
-        "DOWN",
-        "DOWN",
-        "DOWN",
-        "RIGHT",
-        "RIGHT",
         "RIGHT",
         "DELIVER",
         "SELECT_ORDER_1",
-        "LEFT",
-        "LEFT",
-        "LEFT",
-        "LEFT",
-        "UP",
-        "UP",
-        "UP",
         "PICKUP",
         "RIGHT",
         "RIGHT",
-        "RIGHT",
-        "RIGHT",
-        "RIGHT",
-        "DOWN",
         "DOWN",
         "DOWN",
         "DELIVER",

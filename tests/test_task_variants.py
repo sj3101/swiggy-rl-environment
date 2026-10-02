@@ -58,7 +58,7 @@ def test_deadline_delivery_task() -> None:
 def test_multi_order_delivery_task() -> None:
     env = create_multi_order_env()
     obs, info = env.reset()
-    assert obs.shape[0] >= 12
+    assert obs.shape == (10,)
     assert info["status"] == "ready"
 
     _assert_invalid_action_is_safe(env)
@@ -67,30 +67,12 @@ def test_multi_order_delivery_task() -> None:
         "SELECT_ORDER_0",
         "RIGHT",
         "PICKUP",
-        "DOWN",
-        "DOWN",
-        "DOWN",
-        "DOWN",
-        "DOWN",
-        "RIGHT",
-        "RIGHT",
         "RIGHT",
         "DELIVER",
         "SELECT_ORDER_1",
-        "LEFT",
-        "LEFT",
-        "LEFT",
-        "LEFT",
-        "UP",
-        "UP",
-        "UP",
         "PICKUP",
         "RIGHT",
         "RIGHT",
-        "RIGHT",
-        "RIGHT",
-        "RIGHT",
-        "DOWN",
         "DOWN",
         "DOWN",
         "DELIVER",
@@ -105,6 +87,19 @@ def test_multi_order_delivery_task() -> None:
             break
 
     assert final_terminated is True or env.completed_orders >= 1
+
+
+def test_multi_order_state_representation_is_compact_and_decision_relevant() -> None:
+    env = create_multi_order_env()
+    obs, info = env.reset()
+    assert info["status"] == "ready"
+    assert obs.shape == (10,)
+
+    env.step(ACTION_TO_INDEX["SELECT_ORDER_1"])
+    obs_after_select, _, _, _, _ = env.step(ACTION_TO_INDEX["RIGHT"])
+    assert obs_after_select.shape == (10,)
+    assert obs_after_select[2] == 1
+    assert obs_after_select[6:10].tolist() == [2, 0, 4, 2]
 
 
 def test_multi_rider_assignment_task() -> None:
