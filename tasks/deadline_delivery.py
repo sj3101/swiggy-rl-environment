@@ -26,7 +26,7 @@ class DeadlineTaskConfig:
     rider_start: tuple[int, int] = (0, 0)
     restaurant_position: tuple[int, int] = (2, 0)
     customer_position: tuple[int, int] = (4, 5)
-    deadline_steps: int = 12
+    deadline_steps: int = 15
     reward_config: RewardConfig = field(default_factory=RewardConfig)
 
 

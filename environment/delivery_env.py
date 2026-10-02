@@ -228,7 +228,7 @@ class DeadlineDeliveryEnv(FoodDeliveryEnv):
         self.time_remaining = max(0, self.deadline_steps - self.steps_taken)
         info["time_remaining"] = self.time_remaining
 
-        if self.delivered and self.time_remaining > 0 and not terminated:
+        if self.delivered and self.time_remaining > 0:
             reward += self.reward_config["deadline_bonus"]
             terminated = True
             info["status"] = "delivered_on_time"
@@ -301,6 +301,8 @@ class MultiOrderDeliveryEnv(FoodDeliveryEnv):
         self.completed_orders = 0
         self.picked_up = False
         self.delivered = False
+        self.restaurant_position = tuple(self.orders[0]["restaurant"])
+        self.customer_position = tuple(self.orders[0]["customer"])
         self.steps_taken = 0
         return self._get_observation(), {"status": "ready"}
 
@@ -330,6 +332,12 @@ class MultiOrderDeliveryEnv(FoodDeliveryEnv):
 
         if action_name.startswith("SELECT_ORDER_"):
             order_index = int(action_name.split("_")[-1])
+            if self.picked_up and self.selected_order_index != order_index:
+                reward = self.reward_config["invalid_penalty"]
+                info["status"] = "switch_order_invalid"
+                self.steps_taken += 1
+                truncated = self.steps_taken >= self.max_steps
+                return self._get_observation(), reward, terminated, truncated, info
             if 0 <= order_index < len(self.orders):
                 self.selected_order_index = order_index
                 self.restaurant_position = self.orders[order_index]["restaurant"]
@@ -424,7 +432,8 @@ class MultiRiderDeliveryEnv(FoodDeliveryEnv):
         max_workload: int = 2,
         reward_config: dict[str, float] | None = None,
     ) -> None:
-        self.rider_positions = [tuple(position) for position in rider_positions]
+        self.initial_rider_positions = [tuple(position) for position in rider_positions]
+        self.rider_positions = [tuple(position) for position in self.initial_rider_positions]
         self.rider_workloads = [0 for _ in self.rider_positions]
         self.orders = [
             {"restaurant": tuple(order[0]), "customer": tuple(order[1]), "status": 0}
@@ -469,7 +478,7 @@ class MultiRiderDeliveryEnv(FoodDeliveryEnv):
 
     def reset(self, *, seed: int | None = None, options: dict[str, Any] | None = None) -> tuple[np.ndarray, dict[str, Any]]:
         super().reset(seed=seed, options=options)
-        self.rider_positions = [tuple(position) for position in self.rider_positions]
+        self.rider_positions = [tuple(position) for position in self.initial_rider_positions]
         self.rider_workloads = [0 for _ in self.rider_positions]
         for order in self.orders:
             order["status"] = 0
