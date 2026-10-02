@@ -1,0 +1,7002 @@
+[
+  {
+    "total_reward": -15.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -17.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.3,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.150000000000002,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.299999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.299999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -17.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -17.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.3,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -17.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.3,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.549999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.299999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.299999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.200000000000003,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.099999999999998,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.299999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.299999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.599999999999998,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -13.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6000000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -15.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.549999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -16.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.849999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.3,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.4,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.549999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.4,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.4,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.549999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.4,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.3,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.849999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.8500000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -12.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.949999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.599999999999998,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.45,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.45,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.3,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.5,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.8999999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.8999999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.3,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.45,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.799999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.8500000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.8500000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.049999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.55,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.45,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.55,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.4,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.5,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.8500000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -11.899999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.4,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.6499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.099999999999998,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.8500000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.8500000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.85,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.8500000000000005,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.45,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.4,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.6499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.6499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.55,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.6499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.6,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -3.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.9,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.65,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.8,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.6499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.95,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.7,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.75,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -4.300000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.1,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -10.0,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.1499999999999995,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -9.05,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.699999999999999,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -7.15,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -8.100000000000001,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -5.25,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  },
+  {
+    "total_reward": -6.2,
+    "steps": 12,
+    "success": false,
+    "deadline_success": false,
+    "status": "deadline_exceeded"
+  }
+]

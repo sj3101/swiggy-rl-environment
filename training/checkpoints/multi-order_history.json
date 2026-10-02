@@ -1,0 +1,7002 @@
+[
+  {
+    "total_reward": -24.800000000000008,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -27.400000000000006,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.600000000000005,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.500000000000004,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -29.550000000000008,
+    "steps": 53,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.500000000000007,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.950000000000006,
+    "steps": 55,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.500000000000007,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.250000000000007,
+    "steps": 56,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.500000000000007,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -26.650000000000002,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -27.600000000000005,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.60000000000001,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -31.100000000000005,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -24.550000000000004,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.850000000000005,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.350000000000005,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.15000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.400000000000006,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -21.70000000000001,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -21.20000000000001,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -26.450000000000006,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.850000000000005,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -22.900000000000013,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -24.900000000000006,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.200000000000006,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -22.55000000000001,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -26.550000000000004,
+    "steps": 56,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.35000000000001,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -24.300000000000008,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -27.40000000000001,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -18.750000000000007,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.500000000000007,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -24.200000000000003,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.650000000000006,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -26.450000000000006,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.400000000000006,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -15.400000000000011,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -27.300000000000008,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -27.050000000000004,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.60000000000001,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.65000000000001,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -18.45000000000001,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.600000000000005,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -17.75000000000001,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -26.100000000000005,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.650000000000006,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.700000000000006,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -21.350000000000005,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.200000000000006,
+    "steps": 54,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -22.750000000000004,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.450000000000003,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -22.250000000000004,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.150000000000006,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.100000000000005,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.500000000000007,
+    "steps": 57,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -21.80000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.450000000000006,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.500000000000007,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.85000000000001,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -22.750000000000004,
+    "steps": 53,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.600000000000005,
+    "steps": 54,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.400000000000006,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -22.750000000000007,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.65000000000001,
+    "steps": 61,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.15000000000001,
+    "steps": 53,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -21.050000000000008,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.400000000000007,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.350000000000005,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.450000000000006,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -24.400000000000006,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -29.650000000000006,
+    "steps": 57,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -22.500000000000007,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.400000000000006,
+    "steps": 58,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.65000000000001,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -25.35,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -24.450000000000003,
+    "steps": 55,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.80000000000001,
+    "steps": 60,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.60000000000001,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.750000000000007,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.000000000000007,
+    "steps": 57,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -21.050000000000008,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -18.90000000000001,
+    "steps": 53,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.600000000000009,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.750000000000007,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -20.35000000000001,
+    "steps": 52,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.300000000000008,
+    "steps": 53,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.499999999999998,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.00000000000001,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.300000000000008,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -23.450000000000003,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.90000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -15.10000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.500000000000004,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -15.050000000000004,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.20000000000001,
+    "steps": 55,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.650000000000006,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -18.70000000000001,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.8,
+    "steps": 54,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -18.200000000000006,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -15.850000000000001,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.450000000000006,
+    "steps": 52,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -18.200000000000014,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.000000000000005,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -17.750000000000004,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.900000000000006,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.65000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.149999999999999,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -18.50000000000001,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.900000000000002,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -19.150000000000006,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -11.050000000000008,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.399999999999997,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.700000000000003,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -17.00000000000001,
+    "steps": 53,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -15.850000000000005,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.350000000000009,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.600000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -11.750000000000009,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.600000000000001,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -17.950000000000003,
+    "steps": 52,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.050000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -10.8,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.200000000000005,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.80000000000001,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.850000000000005,
+    "steps": 55,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.350000000000005,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.299999999999998,
+    "steps": 54,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.400000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -15.150000000000007,
+    "steps": 56,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.450000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.650000000000006,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.600000000000007,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.0,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -17.050000000000004,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.150000000000006,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.85000000000001,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.899999999999997,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.950000000000003,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.299999999999996,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -10.800000000000004,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.250000000000007,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.199999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.349999999999998,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.999999999999997,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.850000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -10.100000000000001,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.1,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.600000000000001,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -11.250000000000002,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.949999999999997,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.350000000000009,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.4499999999999975,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.950000000000003,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.7999999999999945,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.3,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -16.300000000000008,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.149999999999995,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.000000000000004,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.149999999999997,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.850000000000001,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.900000000000002,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.450000000000014,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.450000000000005,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.349999999999998,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.599999999999998,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.449999999999996,
+    "steps": 57,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.450000000000003,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.399999999999999,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.249999999999996,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.150000000000002,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -10.300000000000004,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999997,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -11.750000000000004,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -13.649999999999999,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.999999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -11.75,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.149999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.149999999999999,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.4499999999999975,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -10.1,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -14.350000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.999999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -11.050000000000013,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.1499999999999986,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.350000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.4999999999999964,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.1,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -11.250000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.8999999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -12.70000000000001,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.749999999999997,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.9000000000000004,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999999,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.199999999999996,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.749999999999997,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.900000000000003,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.249999999999997,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.8499999999999988,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.549999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -10.299999999999997,
+    "steps": 54,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.949999999999997,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.8999999999999995,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.400000000000002,
+    "steps": 51,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -10.549999999999997,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.999999999999999,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.150000000000002,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.4999999999999964,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.1999999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999998,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.199999999999996,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.449999999999995,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -9.35000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.45,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.8499999999999996,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.7499999999999964,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.099999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.549999999999998,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.2499999999999964,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.899999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.9499999999999975,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.8499999999999943,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.449999999999997,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.44999999999999934,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.399999999999999,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.849999999999995,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.0000000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.099999999999999,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.9499999999999986,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.149999999999999,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4499999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.2500000000000002,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.1500000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.9000000000000012,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.199999999999997,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.849999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.849999999999997,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.199999999999998,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.7000000000000008,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.949999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999997,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.299999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.549999999999998,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.0,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.099999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.75,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.599999999999997,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999999,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.599999999999998,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.149999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.999999999999998,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.9499999999999975,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.2500000000000004,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.299999999999996,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999997,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6500000000000004,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.249999999999998,
+    "steps": 49,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -8.149999999999999,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.249999999999997,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.7000000000000013,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999998,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.8,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.399999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.7000000000000008,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000007,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.249999999999997,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999999,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -7.199999999999997,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.9,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000002,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000013,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.899999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.3999999999999986,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.999999999999995,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.199999999999997,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000008,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6500000000000012,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.65,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000009,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.8499999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.400000000000001,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.599999999999998,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.9999999999999964,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.1500000000000004,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000008,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999995,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.7,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.649999999999996,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.1500000000000004,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.1,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.149999999999999,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999995,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.500000000000001,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999998,
+    "steps": 52,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.849999999999996,
+    "steps": 50,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.599999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.44999999999999885,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4499999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.1499999999999986,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.44999999999999957,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.649999999999996,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.649999999999999,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.8499999999999996,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.4000000000000015,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.0000000000000009,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.7000000000000013,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.9999999999999964,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000013,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000013,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.399999999999996,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.650000000000001,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.699999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000008,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.9499999999999955,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000013,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000013,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.0000000000000004,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.050000000000001404,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.8,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.9000000000000012,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.8499999999999988,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7000000000000002,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.9,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000009,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999998,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000012,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.19999999999999857,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000008,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6499999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.9999999999999998,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999997,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -6.949999999999998,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999987,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.9,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000015,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999991,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999997,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.050000000000000655,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999991,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.8999999999999972,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.049999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6499999999999977,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000008,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.6,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000002,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000007,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7000000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.849999999999998,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6499999999999995,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.149999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7000000000000002,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000006,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999995,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.44999999999999934,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.5999999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.49999999999999994,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.49999999999999967,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.500000000000001,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000002,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999992,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.1499999999999986,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.49999999999999944,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.5999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.45,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000007,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999992,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999987,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000004,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.8999999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.649999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999988,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000002,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999993,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.8999999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999991,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.500000000000001,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.899999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000009,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.050000000000000266,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999991,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.7000000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000013,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.0000000000000004,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.45,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -4.799999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.44999999999999957,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.7,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.700000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.6000000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.4999999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -5.0499999999999945,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000007,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999994,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999993,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.44999999999999946,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.45000000000000023,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.19999999999999973,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999998,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.44999999999999957,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000008,
+    "steps": 46,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.650000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.500000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.6999999999999973,
+    "steps": 47,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999986,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999993,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.45,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6499999999999995,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.1499999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000009,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.4999999999999999,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.45000000000000023,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000008,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999992,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.450000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.699999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999994,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999991,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.65,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 48,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000023,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000009,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000017,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000024,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7000000000000006,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000006,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.45,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999988,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.65,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.350000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -3.5999999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.399999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000014,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.65,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.65,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.300000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.499999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.45,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000028,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999994,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000023,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999991,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999991,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.800000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.4499999999999997,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000012,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.4999999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.3499999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000028,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000007,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000017,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.699999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000021,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.800000000000004,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -2.6499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.650000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000006,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7000000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000004,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.800000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000008,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999987,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000024,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000036,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000026,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999986,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000006,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999998,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999987,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7000000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000026,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999986,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000006,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999994,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000008,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000023,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.3000000000000025,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000006,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.500000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999997,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999995,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999995,
+    "steps": 45,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000028,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.400000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999988,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.65,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999986,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999992,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999986,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.19999999999999918,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.600000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.4,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.800000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999984,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.65,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6000000000000014,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.3999999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999996,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.699999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999994,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000023,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.349999999999999,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.7500000000000002,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.550000000000003,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000028,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6499999999999992,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000012,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 44,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.5500000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.3000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -0.5000000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.6999999999999995,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.649999999999999,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000023,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.3000000000000034,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000003,
+    "steps": 42,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000005,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000023,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.850000000000001,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.5999999999999996,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 0.7000000000000015,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.65,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": -1.4500000000000008,
+    "steps": 43,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 1.6500000000000004,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.6,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 2.8500000000000014,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  },
+  {
+    "total_reward": 3.8000000000000034,
+    "steps": 41,
+    "success": false,
+    "deadline_success": false,
+    "status": "max_steps_reached"
+  }
+]
